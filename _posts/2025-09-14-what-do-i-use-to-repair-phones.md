@@ -1,5 +1,5 @@
 ---
-title : "what do i use to repair phones"
+title : "What do i use to repair phones"
 date : 2025-09-14 00:00:00 +0100
 categories: [review]
 tags: [Hardware,DoItYourself ]
@@ -70,14 +70,7 @@ I first used these because my brother wears glasses, and they were always lying 
 ## Silica Pearls
 I’ve never had to use these, and I hope I never will (water damage and I are natural enemies). But I like to be prepared for every situation.
 
-
-
-
-These are the tools I use—you can see them in their resting place: the drawer of my desk cabinet.
-
-
-
-# where i Buy them
+# Where i Buy them
 
 While writing this, it occurred to me that I could also share where I buy my phone parts. And if you guessed AliExpress, you’re right.  
 
