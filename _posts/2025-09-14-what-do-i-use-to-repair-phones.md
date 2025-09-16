@@ -11,15 +11,17 @@ The next question is: what tools do I use, where did I buy them, and what advice
 
 First of all, here’s a quick overview of what I’ve got:
 
-- [Manta driver kit](#manta-driver-kit)  
-- [Anti-static mat](#anti-static-mat)  
-- [Anti-static tweezers](#anti-static-tweezers)  
-- [Triangle plastic pry opening tool](#triangle-plastic-pry-opening-tool)  
-- [Duster](#duster)  
-- [3M 94 primer](#3m-94-primer)  
-- [Screen glue tape](#screen-glue-tape)  
-- [Glasses cleaning cloths](#glasses-cleaning-cloths)  
-- [Silica pearls](#silica-pearls)  
+- [Tools i use](#tools-i-use)
+  - [Manta Driver Kit](#manta-driver-kit)
+  - [Anti-Static Mat](#anti-static-mat)
+  - [Anti-Static Tweezers](#anti-static-tweezers)
+  - [Triangle Plastic Pry Opening Tool](#triangle-plastic-pry-opening-tool)
+  - [Duster](#duster)
+  - [3M 94 Primer](#3m-94-primer)
+  - [Screen Glue Tape](#screen-glue-tape)
+  - [Glasses Cleaning Cloths](#glasses-cleaning-cloths)
+  - [Silica Pearls](#silica-pearls)
+- [Where i Buy them](#where-i-buy-them)
 
 
 
