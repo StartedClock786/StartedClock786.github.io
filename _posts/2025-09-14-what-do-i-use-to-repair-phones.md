@@ -6,7 +6,7 @@ tags: [hardware,doityourself ]
 ---
 # Tools i use
 
-So, now you know how I got into repairing phones (if you didn’t catch up, you can read it [here](./2025-09-14-how-i-got-into-repairing-phones.md)).  
+So, now you know how I got into repairing phones (if you didn’t catch up, you can read it [here]({% post_url 2025-09-14-how-i-got-into-repairing-phones %})).  
 The next question is: what tools do I use, where did I buy them, and what advice can I give you on what to be careful about when buying stuff?
 
 First of all, here’s a quick overview of what I’ve got:
