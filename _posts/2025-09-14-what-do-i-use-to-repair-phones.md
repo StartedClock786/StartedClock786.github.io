@@ -26,7 +26,7 @@ First of all, here’s a quick overview of what I’ve got:
 
 
 ## Manta Driver Kit
-There’s not much to say here—I already reviewed it [here](./2025-09-14-thoughts-on-iFixit-Manta-Driver-Kit.md), so you can check out my full thoughts.
+There’s not much to say here—I already reviewed it [here]({% post_url 2025-09-14-thoughts-on-iFixit-Manta-Driver-Kit %}), so you can check out my full thoughts.
 
 [![iFixit Manta Driver Kit](https://cdn.shopify.com/s/files/1/0045/4092/4007/files/CDEfZPcFPEOWRjBm.jpg?v=1728360904&width=800)](https://cdn.shopify.com/s/files/1/0045/4092/4007/files/CDEfZPcFPEOWRjBm.jpg?v=1728360904&width=800)
 
