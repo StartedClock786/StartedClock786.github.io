@@ -2,7 +2,7 @@
 title : "How i got into repearing phones"
 date : 2025-09-14 00:00:00 +0100
 categories: [Story]
-tags: [Story,Hardware,DoItYourself ]
+tags: [story,hardware,doityourself ]
 ---
 # How I Got Into Repairing Phones
 

@@ -1,8 +1,8 @@
 ---
 title : "What do i use to repair phones"
 date : 2025-09-14 00:00:00 +0100
-categories: [review]
-tags: [Hardware,DoItYourself ]
+categories: [Review]
+tags: [hardware,doityourself ]
 ---
 # Tools i use
 

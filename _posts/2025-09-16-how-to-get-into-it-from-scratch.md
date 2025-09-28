@@ -1,8 +1,8 @@
 ---
 title : "How to get into it from scratch"
 date : 2025-09-14 00:00:00 +0100
-categories: [review]
-tags: [beginner,Advice,DoItYourself ]
+categories: [Introduction]
+tags: [beginner,advice,doityourself ]
 ---
 
 Sometimes in a quiet hour, I think about how I would start if I had no idea about software development or any IT topic.  

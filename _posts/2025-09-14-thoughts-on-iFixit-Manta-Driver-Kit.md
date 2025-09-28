@@ -2,7 +2,7 @@
 title : "Review on iFixit Manta Driver Kit"
 date : 2025-09-13 00:00:00 +0100
 categories: [Review]
-tags: [Review,Hardware,DoItYourself ]
+tags: [review,hardware,doityourself ]
 ---
 
 # iFixit Manta Driver Kit – My Honest Review  

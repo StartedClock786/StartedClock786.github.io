@@ -1,7 +1,7 @@
 ---
 title : "What is software developer"
 date : 2025-04-27 00:00:00 +0100
-categories: [introduction]
+categories: [Introduction]
 tags: [introduction ]
 ---
 
